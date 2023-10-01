@@ -6,6 +6,7 @@
 - [ ] Toothbrush
 - [ ] Tooth paste
 - [ ] cologne / smell good stuff
+- [ ] Hair Product 
 
 ## Clothes
 
