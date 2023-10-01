@@ -2,11 +2,11 @@
 
 ## Toiletries
 
-- [ ] Deoderant
-- [ ] Toothbrush
-- [ ] Tooth paste
-- [ ] cologne / smell good stuff
-- [ ] Hair Product 
+- [x] Deoderant
+- [x] Toothbrush
+- [x] Tooth paste
+- [x] cologne / smell good stuff
+- [x] Hair Product 
 
 ## Clothes
 
@@ -18,25 +18,25 @@
 - [ ] T-Shirt
 
 #### In Suitcase
-- [ ] Brown Shoes
-- [ ] Brown Belt
-- [ ] 5 Pairs Underoos
+- [x] Brown Shoes
+- [x] Brown Belt
+- [x] 5 Pairs Underoos
 - [ ] 5 Pairs Socks
-- [ ] 5 White T-shirts
+- [x] 5 White T-shirts
 - [ ] 5 Daily Shirts
 - [ ] 2 Pairs PJ Pants
 - [ ] 2 PJ Shirts
 
 ## Media
 
-- [ ] Work Laptop
-- [ ] Work Phone
-- [ ] Personal Laptop
-- [ ] Laptop Charger
-- [ ] Computer Mouse
+- [x] Work Laptop
+- [x] Work Phone
+- [x] Personal Laptop
+- [x] Laptop Charger
+- [x] Computer Mouse
 - [ ] Phone / Watch Charger
-- [ ] The Phoenix Project
+- [x] The Phoenix Project
 - [ ] The DevOps Handbook
-- [ ] Notebook
-- [ ] Pencil
+- [x] Notebook
+- [x] Pencil
 - [ ] Business Cards
