@@ -11,21 +11,21 @@
 ## Clothes
 
 #### Wearing On Plane
-- [ ] Jeans
-- [ ] Socks
-- [ ] Black Tennis Shoes
-- [ ] Black Belt
-- [ ] T-Shirt
+- [x] Jeans
+- [x] Socks
+- [x] Black Tennis Shoes
+- [x] Black Belt
+- [x] T-Shirt
 
 #### In Suitcase
 - [x] Brown Shoes
 - [x] Brown Belt
 - [x] 5 Pairs Underoos
-- [ ] 5 Pairs Socks
+- [x] 5 Pairs Socks
 - [x] 5 White T-shirts
-- [ ] 5 Daily Shirts
-- [ ] 2 Pairs PJ Pants
-- [ ] 2 PJ Shirts
+- [x] 5 Daily Shirts
+- [x] 2 Pairs PJ Pants
+- [x] 2 PJ Shirts
 
 ## Media
 
@@ -36,7 +36,7 @@
 - [x] Computer Mouse
 - [ ] Phone / Watch Charger
 - [x] The Phoenix Project
-- [ ] The DevOps Handbook
+- [x] The DevOps Handbook
 - [x] Notebook
 - [x] Pencil
-- [ ] Business Cards
+- [x] Business Cards
